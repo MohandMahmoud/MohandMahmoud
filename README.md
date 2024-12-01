@@ -17,13 +17,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MohandMahmoud](https://github.com/MohandMahmoud)
 
-- 📝 I regularly write articles on [AI field](AI field)
+- 📝 I regularly write articles on (AI field)
 
 - 💬 Ask me about **React, Vue, GSAP (GreenSock Animation Platform), AI and Machine Learning, Mobile App Development**
 
 - 📫 How to reach me **mohandmahmoudmousa@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZI6g5gwnmV9lOh42Opp1qLMtx6XyBBXh/view?usp=sharing](https://drive.google.com/file/d/1ZI6g5gwnmV9lOh42Opp1qLMtx6XyBBXh/view?usp=sharing)
+- 📄 Know about my CV [https://drive.google.com/file/d/1ZI6g5gwnmV9lOh42Opp1qLMtx6XyBBXh/view?usp=sharing](https://drive.google.com/file/d/1ZI6g5gwnmV9lOh42Opp1qLMtx6XyBBXh/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
